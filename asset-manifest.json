@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.18c476ba.css",
-    "main.js": "/static/js/main.c05d4cca.js",
+    "main.js": "/static/js/main.0913ee4b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Lorenzo_DeSimoni_CV.pdf": "/static/media/Lorenzo_DeSimoni_CV.d4b2ebd5bbfb5cbbf34a.pdf",
+    "static/media/DeSimoni_CV.pdf": "/static/media/DeSimoni_CV.0ec883d8fc592307b78c.pdf",
     "static/media/IMG_0342.jpg": "/static/media/IMG_0342.522bac26ca8c8c99d0bb.jpg",
     "static/media/Milan1_1024x1024.jpg": "/static/media/Milan1_1024x1024.0b54bbc0726f9ad16788.jpg",
     "static/media/IMG01.jpeg": "/static/media/IMG01.54ada65264e52d8364a4.jpeg",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
-    "main.c05d4cca.js.map": "/static/js/main.c05d4cca.js.map",
+    "main.0913ee4b.js.map": "/static/js/main.0913ee4b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18c476ba.css",
-    "static/js/main.c05d4cca.js"
+    "static/js/main.0913ee4b.js"
   ]
 }
